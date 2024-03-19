@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @esthergeenen
+- 👋 Hi, I’m Esther Geenen from the Netherlands.
 - 👀 I’m interested in teachting computer science.
 - 🌱 I’m currently learning Mendix slow code.
 - 📫 How to reach me: sent a mail to e.geenen@leokanner.nl
